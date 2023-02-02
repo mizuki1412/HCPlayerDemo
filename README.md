@@ -1,6 +1,6 @@
 # HCPlayer Demo
 
-基于海康威视SDK（C++ windows）、Qt6.4.2、QML，实现摄像头或NVR在QML中的实时预览。
+基于海康威视SDK（C++ windows）、Qt6.4.2、QML、CMake，实现摄像头或NVR在QML中的实时预览。
 
 大致原理：
 - 通过海康SDK登录设备，获取视频流
